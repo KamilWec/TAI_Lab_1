@@ -21,6 +21,18 @@ html {
     display: none;
 }
 
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: red;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
 
 
 
